@@ -1,0 +1,627 @@
+[
+	{
+		"title": "expecto patronum",
+		"description": "“Patronus” es el Latín de “protector”. Es el Encantamiento Patronus. Al traducir literalmente la frase “Expecto Patronum” se obtiene “Yo espero un guardián.” El Encantamiento Patronus es magia muy avanzada, más allá del nivel del T.I.M.O. Se utiliza para ahuyentar a los Dementores y a los Lethifolds, y probablemente, funcione contra otras criaturas. Para conjurar un Patronus, se debe pronunciar “Expecto Patronum”, concentrándose arduamente en un recuerdo altamente feliz. Cuando se realiza exitosamente, la varita de quien lo conjura emite un Patronus."
+	},
+	{ "title": "avada kedabra", "description": "Es la Maldición Asesina, aquel que la recibe muere al instante." },
+	{
+		"title": "sectusembra",
+		"description": "Del Latín “sectio”, que significa “cortar”, y “semper”, que significa “siempre”. Causa unas profundas heridas de cortes en la víctima, como si esta fuera atacada por una espada invisible. Harry lo utilizó en contra de Malfoy, sin conocer sus efectos en ese momento. También lo utilizó contra los Inferi de la cueva del Horrocrux, con muy poco efecto. Éste hechizo fue inventado por Severus Snape cuando era estudiante en Hogwarts."
+	},
+	{
+		"title": "expelliarmus",
+		"description": "Es el Latín de “expulsar un arma”. Éste hechizo se utiliza para des-armar a un oponente. Aunque es un hechizo sencillo, causa que la varita de la víctima vuele lejos de su mano, privándola de su principal arma de defensa. Cuando es realizado por varias personas contra un mismo objetivo, es lo suficientemente fuerte como para levantarlo del suelo, como se demostró con Severus Snape en Harry Potter y el Prisionero de Azkaban."
+	},
+	{
+		"title": "crucio",
+		"description": "Es el Latín de “torturar”. Es la Maldición Cruciatas. Esta inflinge un dolor físico severo a quien es aplicada. Para utilizar efectivamente la Maldición Cruciatus, quien no conjura debe tener el deseo genuino de causar dolor. Cuando se utiliza apropiadamente, la maldición es atormentadora, y puede hacer que las víctimas se vuelvan dementes. Por lo tanto, es una de las tres Maldiciones Imperdonables. El uso de éste hechizo contra un ser humano, se castiga con cadena perpetua en Azkaban."
+	},
+	{
+		"title": "wingardium leviosa",
+		"description": "Tomado en parte de la raíz Latina “levo” que significa “elevar o levantar.” Éste hechizo causa la levitación de un objeto. Una vez levitando, el objeto puede ser manipulado en el aire por quien lo conjura."
+	},
+	{
+		"title": "imperio",
+		"description": "Del Latín “impero” que significa “dar órdenes o mandar” o “imperium” que significa “poder de mandar o controlar.” Es la Maldición Imperius. Se utiliza para controlar las acciones de otra persona, dejándola a merced de quien lo conjura. La experiencia de estar bajo la maldición, se describe como un fantástico estado de relajación, hasta que la víctima comienza a luchar contra ella. La maldición puede ser contrarrestada, pero no muchos magos ni brujas pueden hacerlo. Debido a sus peligrosas implicaciones, la Maldición Imperiuses una de las tres Maldiciones Imperdonables."
+	},
+	{
+		"title": "desmaius",
+		"description": "“Stupefy” significa “entorpecer los sentidos”. También podría derivar del Latín “stupefactus” que significa “aturdido.” Éste hechizo produce un resplandor de luz roja, y aturde a la víctima, dejándola inconsciente. Un solo Hechizo Aturdidor no es lo suficientemente fuerte para crear daños permanentes en la víctima, pero al realizarse por múltiples personas, puede causar daños severos, como le sucedió a la Profesora McGonagallen el quinto año. El Hechizo Ennervate puede deshacer los efectos del Hechizo Aturdidor, haciendo que la víctima sea consciente de nuevo."
+	},
+	{
+		"title": "accio",
+		"description": "Es un hechizo convocador para traer objetos que el mago que los llame conozca su paradero"
+	},
+	{
+		"title": "lumos",
+		"description": "“Lumen” es el Latín de luz. “Luminosus” es el Latín de “brillante”. Produce una luz proveniente de a punta de la varita de quien lo conjura."
+	},
+	{
+		"title": "petrificus totalus",
+		"description": "Es una adaptación de “petrificar completamente”. Hace que la víctima no de pueda mover temporalmente."
+	},
+	{
+		"title": "magia sin varita",
+		"description": "Tradicionalmente, la magia requiere de una varita para poder realizarse, aunque no siempre es el caso. Hay ejemplos frecuentes de magia sin varita a lo largo de los libros, así que es razonable asumir que mientras la varita es un canal importante y muy útil para ejecutar el poder mágico, los magos avanzados pueden realizar los hechizos exitosamente sin ella, cuando es necesario. Sin embargo, cuanto más avanzada sea la magia, será más difícil realizarla sin varita. Severus Snape utilizó un Accio sin varita para atraer las sogas que utilizó para atar a Remus Lupin."
+	},
+	{ "title": "alhomora", "description": "Éste hechizo se utiliza para abrir una puerta o una ventana cerrada" },
+	{
+		"title": "juramento inquebrantable",
+		"description": "Este hechizo crea un trato mágico entre dos personas. Las dos personas participantes deben unir sus manos derechas para conjurar el hechizo. Una tercera persona, se requiere para atestiguar el pacto, y para sellarlo mágicamente. La punta de la varita de la tercera persona debe colocarse sobre las manos de las otras dos personas, para luego definir los términos del trato. Una vez realizado éste proceso, aparecen unas llamas desde la varita, ubicándose alrededor de las manos de los participantes. En éste punto, se ha realizado el Juramento Inquebrantable."
+	},
+	{
+		"title": "magia sin palabras",
+		"description": "Mientras la gran mayoría de hechizos tiene un componente verbal, de hecho, cualquier hechizo puede conjurarse sin hablar, por parte de un mago talentoso. Tal parece que es el poder de la mente y del cuerpo el que causa que el hechizo tenga algún efecto, siendo las palabras sólo un vehículo utilizado para ayudar a crear las condiciones físicas y mentales necesarias para que la magia sea efectiva. Cuanto más avanzada sea la magia, más difícil resulta realizarla sin un componente verbal. Incluso Lord Voldemort utilizó las palabras al realizar encantamientos."
+	},
+	{
+		"title": "oblidiate",
+		"description": "“Oblivio” es el Latín de “falta de memoria”. Es el Encantamiento de la Memoria. Éste hechizo borra unas secciones de la memoria de la víctima, seleccionadas por quien lo conjura. Puede eliminar toda la memoria, si así lo decide quien lo conjura. Éste despoja a las víctimas del conocimiento esencial, dándoles unos síntomas similares a los de la Amnesia, que pueden ser incurables."
+	},
+	{
+		"title": "confundus",
+		"description": "Se utiliza para confundir un objeto o una persona, haciéndolos creer lo que quiere la persona que lo conjura."
+	},
+	{
+		"title": "invisibilidad",
+		"description": "Fred y George Weasley utilizaron éste hechizo en sus Sombreros Sin Cabeza. Hermione estaba particularmente impresionada de que hubieran creado un rango de invisibilidad más allá del objeto encantado. Este hechizo es diferente a Evanesco, el cual causa que el objeto deje de existir, en vez de simplemente hacerlo invisible."
+	},
+	{
+		"title": "sanacion de heridas",
+		"description": "Se usa para sanar las heridas, causando que la piel se una de nuevo. El Profesor Snape utilizó este hechizo en Draco Malfoy después de que Harry lo atacó con el Hechizo Sectumsempra."
+	},
+	{
+		"title": "creacion de un horrocrux",
+		"description": "Después de cometer un asesinato, el Hechizo de Creación de Horrocruxes se utiliza para encapsular la parte desgarrada del alma del asesino, dentro de un objeto o una criatura. Ésta es magia excepcionalmente avanzada y maléfica, e incluso Horace Slughorn no conoce los detalles de éste hechizo, cuando el joven Tom Riddle le preguntó acerca de él."
+	},
+	{
+		"title": "riddikulus",
+		"description": "Adaptación de “ridiculous”, que significa “ridículo”. Causa que un item, una criatura, o una persona, adquieran una apariencia humorística escogida por quien lo conjura. Particularmente, se utiliza contra los Boggarts, quienes se destruyen debido a la risa."
+	},
+	{
+		"title": "protego",
+		"description": "Es el Latín de “proteger”. Es el Encantamiento Escudo. Crea un escudo mágico para desviar hechizos menores o moderados, realizados por otras personas. No es magia avanzada, pues Harry pudo crear un escudo mágico efectivo contra Severus Snape mientras practicaba Oclumancia en el quinto año, pero aún así, muchos magos y brujas adultos no pueden realizarlos correctamente. Los gemelos Weasley han aprovechado ésta situación al comercializar una serie de ropas escudo, que repelen la magia como si ellos mismos hubieran realizado los hechizos."
+	},
+	{
+		"title": "aguamenti",
+		"description": "Este hechizo permite lanzar un chorro de agua desde la varita del Mago."
+	},
+	{
+		"title": "fuego demoniaco",
+		"description": "Es un hechizo de magia oscura que crea un fuego muy poderoso difícil de controlar. Es una de las pocas formas que existen para destruir un horcrux."
+	},
+	{
+		"title": "reducto",
+		"description": "Este hechizo se utiliza para dividir un objeto sólido en varias piezas. No funciona en elementos que no sean sólidos."
+	},
+	{
+		"title": "aresto momentum",
+		"description": "es un hechizo que hace más lento o detiene el movimiento de un objeto"
+	},
+	{
+		"title": "finite incantatem",
+		"description": "Del Latín “finis” que significa “end.” Elimina los efectos de cualquier hechizo que se haya realizado."
+	},
+	{
+		"title": "legeremancia",
+		"description": "Del la raíz Latina “lego” que significa “reunir, coleccionar, traspasar, leer.” Ésta es una práctica muy similar a la lectura de mente Muggle, excepto que la Legeremancia de hecho explora la mente de otra persona, y ve los recuerdos almacenados en ella. Un mago experimentado en Legeremancia, puede descubrir los recuerdos más dolorosos o atemorizantes, y usar ése conocimiento para manipular a la persona a cuya mente ha ingresado. La Oclumancia es la defensa de la mente contra éste ataque."
+	},
+	{
+		"title": "levicorpus",
+		"description": "De “levo”, que es el Latín de “elevar” y “corpus”, que es el Latín de “cuerpo”. Deja colgando a la víctima por los tobillos, en medio del aire. Pareciera como si un gancho invisible estuviera sosteniendo a la persona. Harry lo utiliza en Ron para averiguar sus efectos, y muchos años antes, fue aplicado por James Potter en Severus Snape. Es irónico, pues Snape fue quien inventó éste hechizo."
+	},
+	{
+		"title": "creacion de fuego",
+		"description": "Cuando Harry y Dumbledore fueron atacados por los Inferi en la cueva del Horrocrux, Dumbledore creó un anillo de fuego plateado para protegerlos. Ésta puede ser una versión avanzada del Flagrate o el Incendio, o puede ser un encantamiento separado de creación de fuego."
+	},
+	{
+		"title": "incendio",
+		"description": "“Incendo” es el Latín de “prender fuego”. Se utiliza para crear llamas de fuego menores."
+	},
+	{ "title": "reparo", "description": "Es el Latín de “reparar”. Se usa para reparar el objeto en cuestión." },
+	{
+		"title": "araña exumai",
+		"description": "es un hechizo utilizado para matar o, al menos, para paralizar acromántulas o arañas de gran tamaño."
+	},
+	{
+		"title": "oclumancia",
+		"description": "Del Latín “occlude” que significa “cerrar, recluir.” Es la defensa de la mente contra los ataques externos. La Oclumancia es la única manera de proteger la mente, ante alguien que esté utilizando Legeremancia."
+	},
+	{
+		"title": "sempertonsia",
+		"description": "De “serpent”, que significa “serpiente”. Crea una serpiente a partir de la varita de quien lo conjura."
+	},
+	{
+		"title": "desaparecer",
+		"description": "Del Latín “disparitio” que significa “desaparición” or “dispareo” que significa “desvanecer.” Éste hechizo permite que quien lo conjura, desaparezca instantáneamente de un lugar determinado, con un suave sonido de estallido, o alternativamente, con un fuerte ruido de chasquido. El sonido parece ser diferente dependiendo de la persona que lo conjura. Se utiliza en conjunto con el hechizo Apparate. Quien lo utiliza, debe Desaparecerse de una locación, para poder Aparecerse en otra locación"
+	},
+	{ "title": "expulso", "description": "Es un hechizo que causa explosión" },
+	{
+		"title": "nox",
+		"description": "Es el Latín de “oscuridad”. Este hechizo contrarresta al hechizo “Lumos”, al extinguir la luz generada por el mismo."
+	},
+	{
+		"title": "tarantallegra",
+		"description": "La Tarantellaes un baile rápido Italiano. Causa que las piernas de la víctima bailen incontrolablemente."
+	},
+	{
+		"title": "diffindo",
+		"description": "Es el Latín de “dividir”. Es un hechizo que separa un objeto por la mitad, o que causa su separación. Es probable que sea el mismo Hechizo de Desunir."
+	},
+	{ "title": "babosas", "description": "Causa que la víctima vomite una serie de babosas." },
+	{
+		"title": "apparate",
+		"description": "Éste hechizo permite que quien lo conjura, Aparezca instantáneamente en un lugar Determinado"
+	},
+	{
+		"title": "finite",
+		"description": "Del Latín “finis” que significa “final.” Al igual que el Finite Incantatem, éste elimina los efectos de un hechizo. Puede ser que el Finite detenga un solo hechizo, mientras que el Finite Incantatem detiene a todos los hechizos vigentes. Remus Lupin utilizó este hechizo sobre Neville Longbottom en el Departamento de Misterios, para eliminar los efectos de la maldición Tarantallegra."
+	},
+	{
+		"title": "evanesco",
+		"description": "Es el Latín de “desvanecer”. Éste hechizo se utiliza para desvanecer un objeto. Se asume que sólo funciona con objetos, y no con personas. Éste hechizo hace que el objeto desaparezca, en vez de sólo hacerlo invisible. Evanesco también es conocido como el Hechizo Desvanecedor"
+	},
+	{
+		"title": "rictusembra",
+		"description": "Del Latín “rideo risi risum” que significa “reírse de algo.” Es el Hechizo de las Cosquillas. Causa una risa incontrolable en la víctima."
+	},
+	{
+		"title": "oppugno",
+		"description": "Es el Latín de “atacar”. Causa que algo ataque a un objetivo escogido por quien lo conjura. Hermione lo utilizó para crear una pequeña bandada de aves que atacaron a Ron, así que se ha confirmado que funciona con criaturas vivientes. También podría funcionar con objetos inanimados."
+	},
+	{
+		"title": "episkey",
+		"description": "Del Griego “episkeyi” que significa “reparar”. Es un hechizo sanador. Tonks lo utilizó para sanar la nariz de Harry cuando Malfoy la rompió en el Expreso de Hogwarts. También puede funcionar en huesos, así que podría ser el hechizo que Lockhart intentaba realizar, cuando removió accidentalmente los huesos del brazo de Harry"
+	},
+	{
+		"title": "alivianacion de un hechizo",
+		"description": "Cuando Katie Bell fue lastimada por el collar maldecido de Malfoy, el Profesor Snape hizo todo lo que pudo para evitar la propagación del hechizo. La magia que él realizó se desconoce, así que se asume que se trata de una Alivianación de un Hechizo."
+	},
+	{
+		"title": "motsmodre",
+		"description": "Del Latín “Mors”, que significa “muerte” y del Francés “mordre”, que significa “morder”. Aunque la traducción literal sería “morder la muerte”, que sería consistente con el nombre de los Mortífagos, éste hechizo produce la Marca Tenebrosa. Fue conjurado por primera vez en 13 años por Barty Crouch Jr. en la Copa Mundial de Quidditch. También fue conjurado en Hogwarts cuando los Mortífagos, ayudados por Draco Malfoy, se infiltraron en la escuela."
+	},
+	{ "title": "avis", "description": "Conjura una bandada de aves." },
+	{
+		"title": "incarcerous",
+		"description": "“Incarcerate” significa “atrapar”. Éste hechizo lanza unas sogas que atrapan a la víctima."
+	},
+	{ "title": "hipnosis", "description": "Hipnotiza a la persona sobre la cual se conjura." },
+	{
+		"title": "fidelius",
+		"description": "“Fidelis” es el Latín de “amigos fieles”. Este es un encantamiento complejo que permite que alguien o algo, sea oculto, incluso a simple vista, durante un periodo de tiempo indefinido. La ubicación de las personas y objetos ocultos es un secreto que solo una persona conoce, llamada Guardián Secreto, pues la información se guarda dentro de su alma misma. El Guardián Secreto es el único con el poder de divulgar el secreto. La información se mantiene secreta, hasta que el Guardián Secreto decida revelarla. Ni siquiera quienes conocen la información secreta pueden reveler lo que saben."
+	},
+	{
+		"title": "pior incantatem",
+		"description": "Del Latín “priori prius” que significa “anterior, precedente” y una adaptación de la palabra Inglesa “incantation” que significa encantamiento. Es el Efecto del Hechizo Inverso. Al conjurarse, éste hechizo causa que una varita cree un eco o una imagen fantasmal de los últimos hechizos realizados, en un orden cronológico inverso. Un efecto similar ocurre cuando dos varitas que comparten un núcleo mágico tomado del mismo animal, se enfrentan en batalla. Las varitas hermanas no pueden luchar entre sí, sino que en cambio, se bloquean entre sí, conectadas por una energía mágica."
+	},
+	{
+		"title": "chispas",
+		"description": "Causa que unas series de chispas emerjan de la punta de la varita de quien lo conjura. Éste puede ser el mismo Hechizo Relashio."
+	},
+	{
+		"title": "desvío de un maleficio",
+		"description": "No está claro si este es un hechizo, o una rama de la magia, como es la Oclumancia. De cualquier manera, se usa para desviar un hechizo enviado hacia uno mismo."
+	},
+	{
+		"title": "casco burbuja",
+		"description": "Se utiliza para crear una burbuja de aire alrededor de la cabeza de quien lo conjura"
+	},
+	{
+		"title": "anapneo",
+		"description": "Despeja las vías respiratorias de la persona a la que se le aplica, permitiéndole respirar apropiadamente"
+	},
+	{
+		"title": "sonorus",
+		"description": "Es el Latín de “en voz alta”. Proyecta la voz de quien lo conjura, haciendo que esta suene muy fuerte."
+	},
+	{
+		"title": "tergeo",
+		"description": "Es el Latín de “enjugar, fregar, o limpiar”. Es un hechizo utilizado para limpiar objetos líquidos, pues de lo contrario, no sería diferente al Hechizo Scourgify. Hermione lo utilizó para limpiar la sangre del rostro de Harry, cuando se rompió la nariz."
+	},
+	{
+		"title": "reducio",
+		"description": "Es una adaptación de “reduce”, que significa “reducir”. Este hechizo causa que un objeto se encoja. Así mismo, niega los efectos del Hechizo Engorgio, regresando a cualquier objeto aumentado mágicamente, a su tamaño original."
+	},
+	{
+		"title": "muffiato",
+		"description": "De la palabra Inglesa “muffle”. Se encarga de rellenar los oídos de cualquiera que esté cerca de quien lo conjura, con un zumbido no identificable. Harry supo de éste hechizo por el Príncipe Mestizo, y lo usó para poder tener conversaciones en clase, sin ser detectado"
+	},
+	{
+		"title": "impedimenta",
+		"description": "“Impedimentum” es el Latín de “un obstáculo”. Se usa para detener o ralentizar a una persona o criatura, en contraposición de un objeto."
+	},
+	{
+		"title": "contrarestador",
+		"description": "Su efecto es desconocido, pero el conjuro de este hechizo en Elephant and Castle un distrito de Londres fue lo suficientemente serio para requerir el llamado del Escuadrón de Ejecución de la Ley Mágica."
+	},
+	{
+		"title": "anti-trampa",
+		"description": "Un hechizo que utilizan los maestros en Hogwarts sobre las plumas o los exámenes, para evitar las trampas"
+	},
+	{ "title": "anti-desaparicion", "description": "Al ser aplicado a una persona, evita que ésta Desaparezca" },
+	{
+		"title": "inmobulus",
+		"description": "“Immobilise” significa “evitar el movimiento”. El nombre de éste hechizo proviene de las películas antes que los libros, pero puede ser el mismo Hechizo Inmovilizador utilizado por Hermione para inmovilizar a los Duendecillos de Cornualles en la primera clase de Defensa Contra las Artes Oscuras de Lockhart."
+	},
+	{
+		"title": "ennervate",
+		"description": "Reanima a una persona, en especial si ha sido víctima del hechizo Stupefy (Desmaius)."
+	},
+	{
+		"title": "engorgio",
+		"description": "Engorge” significa “rellenar con exceso”. Es el Encantamiento de Agrandamiento, que causa que el objetivo aumente de tamaño"
+	},
+	{
+		"title": "dissedium",
+		"description": "Posiblemente, este es un hechizo que revela un camino. Se utilizó para abrir una vía secreta a Hogsmeade"
+	},
+	{ "title": "aparecium", "description": "Se utiliza para revelar la tinta invisible" },
+	{
+		"title": "inmovilizador",
+		"description": "Fue utilizado por Hermione para inmovilizar a los Duendecillos de Cornualles en la primera clase de Defensa Contra las Artes Oscuras de Lockhart. El Encantamiento Inmovilizador también es efectivo para desactivar las alarmas contra ladrones de los Muggles."
+	},
+	{
+		"title": "transformacion",
+		"description": "Son similares a los Hechizos de Alternación, pero este tipo de hechizos, se utilizan para transformar a criaturas vivas, en vez de objetos inanimados. Es una rama muy amplia de la Transfiguración. No está claro si existen varios hechizos para los diferentes tipos de transformación."
+	},
+	{ "title": "carpe retractum", "description": "Crea una cuerda mágica que te permite jalar objetos." },
+	{
+		"title": "animador",
+		"description": "No se conoce mucho sobre este hechizo, pero puede asumirse que hace que las personas se sientas más felices"
+	},
+	{ "title": "expeledor", "description": "Causa que un objeto vuele lejos de quien lo conjura." },
+	{
+		"title": "repelante de muggles",
+		"description": "Se usa para ahuyentar a los Muggles de cosas que los magos preferirían que ellos no vieran. Ningún daño se inflinge a los Muggles en cuestión."
+	},
+	{
+		"title": "locomotor mortis",
+		"description": "Es la maldición de las piernas unidas. Las palabras de este hechizo son similares al hechizo Locomotor, aunque sus efectos son completamente diferentes."
+	},
+	{ "title": "cambio de color", "description": "Causa que un objeto cambie de color" },
+	{
+		"title": "enfriamiento de llamas",
+		"description": "Es un encantamiento utilizado por las brujas de la Edad Media para eliminar los efectos del fuego, cuando eran quemadas en la hoguera. En tal caso, era buena idea gritar para fingir que se está siendo quemado."
+	},
+	{
+		"title": "moco de murcielago",
+		"description": "Causa que los mocos crezcan similares a los de un murciélago, para que luego ataquen a la víctima"
+	},
+	{
+		"title": "waddiwasi",
+		"description": "Causa que un objeto vuele a alta velocidad hasta donde lo decida quien lo conjura. Es probable que sea una variante del hechizo XXXXX-wasi, el cual puede aplicarse a cualquier ítem. En éste caso, la parte “waddi” corresponde a una goma de mascar."
+	},
+	{
+		"title": "colloportus",
+		"description": "Este hechizo se utiliza para sellar puertas mágicamente, pero no es particularmente efectivo"
+	},
+	{
+		"title": "impervius",
+		"description": "Impervious significa “incapaz de ser perturbado”. Se usa para hacer que un objeto sea resistente al agua."
+	},
+	{
+		"title": "creacion de recuerdos",
+		"description": "Es diferente del Encantamiento Obliviate. De hecho, este encantamiento crea unos recuerdos falsos en la víctima. Es una parte de la magia excepcionalmente compleja, y es tan rara, que las autoridades no consideran sus efectos al obtener las confesiones de los criminales. Esto fue cierto en el caso de Morfin Gaunt, quien tenía el recuerdo de haber matado a la familia Riddle, ubicado en su mente por Lord Voldemort, lo cual le acarreó una cadena perpetua en Azkaban."
+	},
+	{
+		"title": "estallido",
+		"description": "Este hechizo es utilizado con Buenos resultados por Alberta Toothill en la Competenciade Duelos de 1430 de Inglaterra, donde lo aplicó para vencer al favorito, Samson Wiblin."
+	},
+	{
+		"title": "flagarte",
+		"description": "“Flagrantia” es el Latín de “quemar”. Hace que quien lo conjura pueda dibujar líneas de fuego con su varita"
+	},
+	{
+		"title": "expulsion de entrañas",
+		"description": "Inventado por Urquhart Rackharrow, 1612-1697. Su efecto es desconocido, pero presuntamente tiene que ver con la expulsión de los órganos internos de la víctima."
+	},
+	{
+		"title": "aparicion conjunta",
+		"description": "“Appareo” es el Latín de “aparecer” o “hacerse visible”. Cuando se realiza una Aparición, es posible que un mago calificado haga que se Aparezca otra persona, como parte del proceso de su propia aparición. Ésta técnica se conoce como Aparición Conjunta. El pasajero que es transportado, debe sujetarse fuertemente de quien  se Aparece, para asegurarse de que el transporte se realice correctamente."
+	},
+	{ "title": "ocultamiento", "description": "Se utiliza para ocultar algún objeto" },
+	{
+		"title": "revelar",
+		"description": "Se utiliza para hacer que una persona en el estado de Animago, se restablezca a su estado normal. Sirius y Remus utilizaron éste hechizo contra Pettigrew en la Cabaña de los Gritos, para restituirlo a su forma humana. El hechizo crea dos destellos de luz brillante, después de los cuales, el objetivo Animago se transforma, generando el efecto de una animación en cámara rápida."
+	},
+	{
+		"title": "soñar despierto",
+		"description": "Este hechizo hace que quien lo conjura, tenga 30 minutos de sueño altamente relajante, de acuerdo a sus inventores Fred y George Weasley. Pueden adquirirse en la tienda Sortilegios Weasley"
+	},
+	{
+		"title": "furnunculus",
+		"description": "Hace que el cuerpo de la víctima se llene de forúnculos. Cuando se utiliza en conjunto con el maleficio de Piernas de Gelatina, causa que unos tentáculos emerjan del rostro de la víctima."
+	},
+	{
+		"title": "relashio",
+		"description": "Éste hechizo crea una emanación de calor a partir de la punta de la varita. Normalmente, algunas chispas emergen de la varita como resultado de éste hechizo, pero si la varita está bajo el agua, el hechizo produce un chorro de agua hirviendo. Cuando se conjura con el vigor suficiente, puede ser lo suficientemente poderoso para levantar a alguien del suelo."
+	},
+	{
+		"title": "posesion",
+		"description": "Se trata de la invasión del cuerpo de otra persona o de una criatura. Mientras Lord Voldemort de ocultaba en los bosques de Albania, tomó posesión de pequeñas criaturas, en su mayoría serpientes, para darse a sí mismo una forma física temporal. Él también tiene el hábito de poseer a Nagini, y así mismo, poseyó a Harry durante la Batalla en el Departamento de Misterios. Harry sufrió un dolor extremo durante la posesión, pero posiblemente se debió a los únicos vínculos que lo unen a Lord Voldemort, pues Nagini no ha mostrado ningún signo de dolor cuando ha sido poseída."
+	},
+	{
+		"title": "rennevarte",
+		"description": "Este puede ser un hechizo que reanima a una persona inconsciente. Sin embargo, las palabras son muy similares a las del Hechizo Ennervate, que tiene unos efectos similares, así que cuando Harry intentó utilizarlo sobre el Profesor Dumbledore en la cueva del Horrocrux, podría simplemente haberse equivocado, pronunciando mal el Hechizo Ennervate, debido al momento."
+	},
+	{
+		"title": "vuelo",
+		"description": "Diferente al Wingardium Leviosa, el cual simplemente hace que los objetos floten en el aire, el Encantamiento de Vuelo les permite ser maniobrados por quien lo conjura. Se usa en escobas, como lo confirmó Draco Malfoy cuando criticaba la escoba de Ron en 1995: “¿Por qué alguien podría un Encantamiento de Vuelo en un tronco como ése?”. Presuntamente, también se utiliza en Alfombras Voladoras"
+	},
+	{
+		"title": "homorphus",
+		"description": "De “Homo” que significa “hombre” y “morphus” que significa “transformar”. Se utiliza para forzar a un Hombre Lobo a regresar a su forma humana. Lockhart decía haberlo usado contra el Hombre Lobo de Wagga Wagga."
+	},
+	{
+		"title": "restablecer",
+		"description": "Se utiliza para hacer que una persona en el estado de Animago, se restablezca a su estado normal. Sirius y Remus utilizaron éste hechizo contra Pettigrew en la Cabaña de los Gritos, para restituirlo a su forma humana. El hechizo crea dos destellos de luz brillante, después de los cuales, el objetivo Animago se transforma, generando el efecto de una animación en cámara rápida."
+	},
+	{ "title": "balbuceador", "description": "Causa que la víctima balbucee sin sentido" },
+	{
+		"title": "liberacorpus",
+		"description": "De “libaro”, que es el Latín de “liberar” y “corpus”, que es el Latín de “cuerpo”. Es el contra-hechizo de Levicorpus. Libera a una persona que se encuentre colgando por los tobillos, haciendo que se golpee contra el suelo."
+	},
+	{
+		"title": "orchideus",
+		"description": "Nombrado por la flor Orquídea, crea un racimo de flores a partir de la varita de quien lo conjura."
+	},
+	{
+		"title": "repelente",
+		"description": "Se usa para repeler un objeto. Los hechizos repelentes se utilizaban durante los partidos iniciales de Quidditch, para prevenir que la Snidget deje el área de juego."
+	},
+	{
+		"title": "locomotor",
+		"description": "“Loco” es el Latín de “lugar”. “Moto” es el Latín de “mover”. Causa que un objeto viaje flotando en el aire. La palabra Locomotor debe estar seguida por el objeto en cuestión."
+	},
+	{
+		"title": "extincion",
+		"description": "Se usa para apagar incendios. Fue utilizado por los guardianes de los dragones en el Torneo de los Tres Magos."
+	},
+	{ "title": "irrompible", "description": "Hace que un objeto no pueda ser dividido o roto en piezas." },
+	{
+		"title": "amortiguador",
+		"description": "Crea un área amortiguada invisible. Básicamente, se utiliza en la fabricación de escobas, para que sea más cómodo sentarse en ellas."
+	},
+	{
+		"title": "destello de color",
+		"description": "Se utiliza para que un objeto genere unos destellos de varios colores"
+	},
+	{
+		"title": "imperturbable",
+		"description": "Imperturbable significa “que no puede alterarse”. Éste hechizo crea una barrera que los sonidos, los objetos o las personas no pueden cruzar."
+	},
+	{
+		"title": "specialis revelio",
+		"description": "“Specialis” es el Latín de “especial”, y “revelo” es el Latín de “revelar”. Causa que un ítem revele cualquier aspecto que esté ocultando por medios mágicos. Hermione lo utilizó para asegurarse de que no hubiera nada oculto en la copia de Fabricación de Pociones Avanzadas del Príncipe Mestizo."
+	},
+	{
+		"title": "silencio",
+		"description": "De “silente”, que significa “sin sonido”. Este hechizo obliga a una persona, una criatura, o un objeto, a guardar silencio, haciendo que no sea posible emitir sonidos."
+	},
+	{
+		"title": "creacion de objetos",
+		"description": "Éste tipo de hechizos se enseñan en el nivel E.X.T.A.S.I.S. de la Clase de Transfiguración. No se basan estrictamente en la Transfiguración, sino que se utilizan para crear objetos de la nada. Estos hechizos se utilizan repetidamente por magos avanzados en los libros, como por ejemplo cuando Dumbledore crea una bebida para él y para los Dursley cuando va a recoger a Harry antes del sexto año, cuando Flitwick crea unas decoraciones Navideñas para la escuelan, o cuando el Sr. Ollivander crea unos anillos de humo y una fuente de vino, durante la Comprobación de las Varitas"
+	},
+	{
+		"title": "cubierta de pelo",
+		"description": "Cuando Ginny estaba molesta por la cadena de Petrificaciones en la escuela durante su primer año, Fred y George se embarcaron en una campaña para animarla. Algo que hicieron, fue cubrirse a sí mismos con pelo, para saltar desde detrás de las estatuas. Sin embargo, en vez de animarla, le causaron pesadillas."
+	},
+	{
+		"title": "peski piski pesternomi",
+		"description": "Utilizado por Lockhart para intentar deshacerse de los Duendecillos de Cornualles. No tuvo ningún efecto, tal vez por el posible hecho de que él lo haya inventado"
+	},
+	{
+		"title": "posicionamiento",
+		"description": "Se utiliza para posicionar remotamente un objeto. Presuntamente, es similar a los hechizos de movimiento de objetos, como Locomotor, excepto que el Encantamiento de Posicionamiento permite una ubicación precisa del objeto en cuestión."
+	},
+	{
+		"title": "portus",
+		"description": "“Porta” es el Latín de “entrada”. Éste hechizo se utiliza para convertir un objeto en un Traslador. Los Trasladores se utilizan para transportar a las personas de una locación a otra, instantáneamente. Un Traslador requiere un contacto físico directo para que funcione correctamente. El uso de Trasladores está monitoreado de cerca por la Oficinade Transportes Mágicos."
+	},
+	{
+		"title": "engrosamiento de pelo",
+		"description": "Durante el partido de Quidditch entre Gryffindor y Slytherin en 1995, Alicia Spinnet fue hechizada a sus espaldas por Miles Bletchley, quien hizo que sus cejas crecieran tan rápido, que bloquearon su visión. El Profesor Snape se rehusó a creerlo, alegando que ella se habría aplicado un hechizo de Engrosamiento de Pelo a sí misma."
+	},
+	{ "title": "tropezar", "description": "Causa que la víctima se tropiece al caminar." },
+	{
+		"title": "crecimiento de pelo",
+		"description": "Fue aplicado a Alicia Spinnet por Miles Bletchley antes del partido de Quidditch entre Gryffindor y Slytherin en 1995. Causó que sus cejas crecieran tan rápido, que bloquearon su visión."
+	},
+	{
+		"title": "piernas gelatina",
+		"description": "Hace que las piernas de la víctima se sacudan incontrolablemente."
+	},
+	{
+		"title": "movimiento",
+		"description": "Parvati y Lavender practicaban este hechizo como preparación para sus T.I.M.O.s, haciendo que las cajas de sus lápices se desplazaran sobre la mesa. Es posible que sea el mismo hechizo Locomotor."
+	},
+	{
+		"title": "mobili",
+		"description": "“Mobilis” es el Latín de “movible”. Al pronunciar el conjuro seguido por el objeto en cuestión, éste es forzado a iniciar un movimiento."
+	},
+	{
+		"title": "obliteracion",
+		"description": "“Obliterar” significa eliminar, sin dejar rastro. Éste hechizo fue utilizado por Hermione para eliminar los rastros de la nieve. También podría utilizarse para borrar otras marcas."
+	},
+	{
+		"title": "crecimiento de uñas",
+		"description": "Es un hechizo utilizado para hacer que las uñas de los dedos de los pies de la víctima, crezcan alarmantemente rápido."
+	},
+	{
+		"title": "tortura transmogrifiana",
+		"description": "Lockhart pensó que esta había usado con la Sra. Norris cuando fue encontrada petrificada en 1992. No había sido así, así que es probable que este sea un hechizo inventado por él."
+	},
+	{
+		"title": "inanimatus",
+		"description": "Del Latín “inanimus”, que significa inanimar”, y la palabra “conjurus”, que es un derivado de “conjuro”. Es un hechizo mencionado como una tarea de Harry en el quinto año. El efecto es desconocido, pero presuntamente involucra el conjuro de objetos inanimados. La Profesora McGonagallmencionó que estos conjuros son de nivel E.X.T.A.S.I.S., así que este podría ser una versión simplificada."
+	},
+	{
+		"title": "calvicie instantania",
+		"description": "Elimina el cabello de la víctima de manera instantánea. Harry lo consultó el libro Maleficios Básicos para Fastidiar en la preparación para el Torneo de los Tres Magos, pero lo descartó por el hecho de que los dragones no tienen pelo."
+	},
+	{
+		"title": "aliento de pimienta",
+		"description": "Harry encontró este hechizo en el libro “Maleficios Básicos para Fastidiar” cuando buscaba maneras de luchar contra el dragon de la primera prueba del Torneo del los Tres Magos. El efecto es desconocido, pero presuntamente, hace que la persona o la criatura a la que va dirigido, obtenga un aliento caliente muy desagradable. Harry decidió no utilizarlo contra el dragon, pues solo incrementaría su poder con el fuego."
+	},
+	{
+		"title": "protean",
+		"description": "Es un hechizo que vincula la aparición de varios ítems. Cuando un item es reemplazado, los otros items cambian de la misma manera."
+	},
+	{
+		"title": "shock",
+		"description": "Es un hechizo medicinal para tratar a los pacientes que han sufrido un shock. Una bruja que escribió a El Quisquilloso después de la entrevista de Harry, sugirió intentar unos Hechizos de Shock, para restituir su salud mental."
+	},
+	{
+		"title": "alternacion",
+		"description": "Son una clase de hechizos que permiten alternar un objeto con otro diferente. Es una rama muy amplia de la Transfiguración. NOestá claro si existe un número de hechizos relacionados para los diferentes tipos de transformación, o si se realizan con un solo hechizo."
+	},
+	{
+		"title": "sustantivo",
+		"description": "Sus efectos son desconocidos. Seamus revisó este hechizo para su T.I.M.O. de Encantamientos."
+	},
+	{
+		"title": "anti-ladrones",
+		"description": "Su efecto es desconocido. Dumbledore ordenó que todas las copias de Quidditch a través de los Tiempos que se vendieran a los Muggles, debían estar encantadas con este hechizo, para prevenir que alguien lo leyera sin antes comprarlo."
+	},
+	{
+		"title": "orejas crispadas",
+		"description": "Hace que las orejas de la víctima de crispen incontrolablemente. Harry sufrió un caso de Orejas Crispadas después de una lección particularmente rigurosa de Defensa Contra las Artes Oscuras, acerca del desvió de maleficios."
+	},
+	{
+		"title": "puerro",
+		"description": "Causa que unos puerros nazcan de las orejas de la víctima. En el partido de Quidditch entre Gryffindor y Slytherin en 1994, ocurrió un incidente en el cual un alumno de cuarto año de Gryffindor y un alumno de sexto año de Slytherin, terminaron en el hospital con varios puerros saliendo de sus orejas."
+	},
+	{
+		"title": "adherencia permanente",
+		"description": "Es un encantamiento utilizado para adjuntar dos objetos permanentemente."
+	},
+	{
+		"title": "pus",
+		"description": "Este hechizo fue conjurado por Morfin Gaunt sobre Bob Ogden, cuando fue a visitar a los Gaunt como representante del Escuadrón de la Ejecución de la Ley Mágica, como consecuencia del ataque de Morfin al Sr. Tom Riddle en 1925. Éste causó que su nariz erupcionara en una cascada de pus, la cual solo pudo detenerse por medios mágicos."
+	},
+	{
+		"title": "quietus",
+		"description": "Es una adaptación de “quiet”, que significa “silencioso”. Éste hechizo niega el efecto del hechizo Sonorus, haciendo que una voz magnificada mágicamente, regrese a su estado normal."
+	},
+	{
+		"title": "punzar",
+		"description": "Produce una dolorosa contusión de color rojo en el cuerpo de la víctima."
+	},
+	{
+		"title": "atadura de lengua",
+		"description": "Su efecto es desconocido, pero probablemente, se usa para que una persona no pueda hablar. Fue explicada por el Profesor Vindictus Viridian en su libro acerca de las maldiciones y las contra-maldiciones."
+	},
+	{
+		"title": "lugar in-marcable",
+		"description": "Se usa para hacer que una locación no pueda ser marcada. Ésta es una medida de seguridad contra los Muggles, para que no sea posible localizar un edificio o un lugar encantado dentro de un mapa."
+	},
+	{
+		"title": "crecimiento",
+		"description": "Similar a los Encantamientos de Agrandamiento y Engrosamiento. Este hechizo causa que el objetivo aumente su tamaño. Las diferencias exactas entre los tres encantamientos se desconocen. Harry se confundió durante su T.I.M.O. de Encantamientos, aplicando un Encantamiento de Crecimiento en una rata, cuando debía convertirla de color naranja."
+	},
+	{
+		"title": "rodilla al reves",
+		"description": "Cuando una bola de un antiguo juego de Quidditch aterrizó en el basurero de Gertie Keddle, ella no se impresionó, y hechizó al hombre que la recogió utilizando éste maleficio."
+	},
+	{
+		"title": "limpiar",
+		"description": "Probablemente, es el mismo Hechizo Scourgify, aunque este nunca ha sido definido explícitamente. Hermione intentó enseñar este hechizo a Neville para limpiar sus uñas, después de que Snape lo obligó a destripar un barril lleno de ranas carnudas."
+	},
+	{
+		"title": "cortar",
+		"description": "Comúnmente, se utiliza para cortar objetos, pero también funciona en seres vivientes, pues se supo que Crups, quien vivía en los vecindarios abandonados de los Muggles, cortaba sus uñas con éste hechizo. Si se usara en los humanos, podría representar un medio para que los Magos Oscuros puedan matar a las personas, creando una ponderosa alternativa para el Avada Kedavra, con la ventaja de que no sería imperdonable."
+	},
+	{
+		"title": "sensor de cautela",
+		"description": "En vez de ser un Sensor de Secretismo, éste hechizo detecta cualquier comportamiento ilícito, y alerta a quien lo conjura. La Profesora Umbridgelo utilizó en la puerta de su oficina, cuando Harry entró para hablar con Sirius utilizando su chimenea."
+	},
+	{
+		"title": "recorte de zarpas",
+		"description": "Harry encontró este hechizo en un libro acerca del cuidado de los dragones, cuando buscaba maneras de combatir al dragón de la primera prueba del Torneo de los Tres Magos. Decidió que no sería de mucha ayuda."
+	},
+	{
+		"title": "conjutivitis",
+		"description": "Éste hechizo se aplica a los ojos de la víctima, y causa que los párpados se cierren tanto, que la víctima no pueda ver."
+	},
+	{
+		"title": "maldicion de mocos",
+		"description": "El Profesor Quirrell le habló a su clase acerca de ésta maldición, aunque sus efectos exactos se desconocen."
+	},
+	{
+		"title": "tejido",
+		"description": "Éste hechizo hace que unas agujas comiencen a tejer por sí mismas. Hermione lo utilizó para tejer unos sombreros para los Elfos Domésticos, como parte de su campaña P.E.D.D.O."
+	},
+	{
+		"title": "langlock",
+		"description": "Se encarga de pegar la lengua de la víctima a la parte superior de la boca. Harry supo de este hechizo por el Príncipe Mestizo, y lo utilizó dos veces contra Argus Filch y contra Peeves."
+	},
+	{
+		"title": "ubicacion",
+		"description": "Es el hechizo de Cuatro Puntos. Causa que la varita de quien lo conjura, actúe como una brújula. Al colocar la varita sobre la palma de la mano, y pronunciar las palabras “Point Me”, la varita apunta automáticamente hacia el Norte."
+	},
+	{
+		"title": "rellenar",
+		"description": "Causa que un contenedor se rellene con cualquier líquido que contuviera originalmente. Harry lo utiliza sobre las botellas de vino de Slughorn cuando bebían en la cabaña de Hagrid, después del entierro de Aragog."
+	},
+	{
+		"title": "fregoteo",
+		"description": "Del la palabra Inglesa “scour”, que significa “limpiar”. Fue utilizado por Tonks para limpiar la jaula de Hedwig cuando ayudaba a Harry a empacar antes de irse para Grimmauld Place. James Potter también lo utilizó sobre Snape cuando se burlaba de él."
+	},
+	{
+		"title": "deletrius",
+		"description": "Delete” significa “borrar”. Se utiliza para borrar imágenes de un hechizo, conjuradas por el Priori Incantatem."
+	},
+	{
+		"title": "densaugeo",
+		"description": "Del Latín “dens” que significa “dientes” y “augeo” que significa “aumentar o alargar”. Se usa para alargar los dientes de la víctima."
+	},
+	{
+		"title": "desilusionar",
+		"description": "Literalmente, significa “remover una ilusión”. Generalmente, se utiliza para indicar un descontento con una situación. El hechizo se utiliza para ocultar algo. Comúnmente, se usa para ocultar objetos mágicos y acontecimientos, ante los ojos de los Muggles."
+	},
+	{
+		"title": "sequia",
+		"description": "Se utiliza para secar una cantidad limitada de agua. Harry decidió que probablemente no sería capaz de utilizarlo para secar todo el lago de Hogwarts."
+	},
+	{
+		"title": "engrosamiento",
+		"description": "Es similar al Encantamiento de Agrandamiento, pues causa que un objeto aumente de tamaño. Los gemelos Weasley aplicaron éste encantamiento a una copia de El Quisquilloso que contenía la entrevista de Harry, así que puede ser posible que el Encantamiento de Agrandamiento sólo funcione en materia orgánica, como un animal o una planta, mientras que el Encantamiento de Engrosamiento sólo funciona en otros objetos."
+	},
+	{
+		"title": "peso ligero",
+		"description": "Éste encantamiento se utiliza para hacer que algo adquiera el mismo peso de una pluma, de manera que pueda ser más fácilmente transportado"
+	},
+	{ "title": "férula", "description": "Se encarga de conjurar una tablilla con vendajes" },
+	{
+		"title": "sujetar",
+		"description": "Permite a una persona sujetar un objeto más efectivamente. Fue inventado en 1875 y se una principalmente en el Quidditch, permitiendo a los Cazadores sujetar mejor la Quaffle con una sola  mano, dejando la otra mano libre para maniobrar la escoba."
+	},
+	{
+		"title": "uticaria",
+		"description": "Causa que el rostro de la víctima se llene de erupciones de urticaria. La urticaria consiste de masas elevadas en la piel, usualmente causadas por una reacción alérgica."
+	},
+	{
+		"title": "lengua de cuerno",
+		"description": "Harry encontró éste hechizo en un libro, cuando intentaba descifrar cómo combatir al dragón en la primera prueba del Torneo de los Tres Magos. Decidió no usarlo, pues le daría al dragón un arma adicional."
+	},
+	{
+		"title": "desaceleracion",
+		"description": "Fue patentado por Basil Horton y Randolph Keitch. Este hechizo ayuda a que las escobas desaceleren de una manera controlada. Se usa en las escobas fabricadas por la compañía Comet."
+	},
+	{
+		"title": "aire caliente",
+		"description": "Causa que un vapor de aire caliente emerja de la varita de quien lo conjura. Es similar al Relashio, pero en éste caso, no se liberan chispas. Se requiere un complicado movimiento de varita para realizarlo sin decir ninguna palabra. Hermione lo utilizó para secar su túnica en el invierno de 1995, y para crear un camino entre la nieve."
+	},
+	{
+		"title": "flotar",
+		"description": "Hace que un objeto flote en el aire. Fue utilizado por Dobby para elevar el pudín de Tía Petunia."
+	},
+	{
+		"title": "arrojar",
+		"description": "El Profesor Flitwick pensó que la Saeta de Fuego de Harry, podría estar encantada con éste hechizo, el cual hace que la persona sea arrojada de su escoba."
+	},
+	{
+		"title": "alarma de intrusos",
+		"description": "Es el equivalente mágico de las alarmas contra ladrones. Este hechizo, crea una señal audible cuando el área cubierta por el mismo, es atravesada por alguien o por algo."
+	}
+]

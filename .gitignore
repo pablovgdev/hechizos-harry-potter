@@ -1,0 +1,9 @@
+node_modules/
+db/
+bundle/
+platforms/
+test/
+project.js
+package-lock.json
+bundle.zip
+.env
