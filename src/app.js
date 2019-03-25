@@ -16,34 +16,34 @@ app.setHandler({
 
 	Start() {
 		let speech =
-			"para consultar un hechizo dí por ejemplo: que hace expecto patronum, para escuchar un hechizo aleatorio dí: dime un hechizo.";
-		this.ask("Bienvenido a la skill de hechizos de Harry Potter, " + speech, speech);
+			"puedes preguntarme que hace un hechizo o pedirme que te diga un hechizo aleatorio.";
+		this.ask("Bienvenido a la enciclopedia de hechizos de Harry Potter, " + speech, speech);
 	},
 
 	TellSpell() {
 		let json = require("./hechizos.json");
 		let spell = json.filter(spell => spell.title == this.$inputs.spell.value);
-		spell = spell[0];
-		this.ask(spell.title + ": " + spell.description, "Para consultar un hechizo dí por ejemplo: que hace expecto patronum, para escuchar un hechizo aleatorio dí: dime un hechizo.");
+		if (spell.length) {
+			spell = spell[0];
+			this.tell(spell.title + ": " + spell.description);
+		} else {
+			this.toIntent("Unhandled");
+		}
 	},
 
 	RandomSpell() {
 		let json = require("./hechizos.json");
 		let rand = random(0, json.length - 1);
 		let spell = json[rand];
-		this.ask(spell.title + ": " + spell.description, "Para consultar un hechizo dí por ejemplo: que hace expecto patronum, para escuchar un hechizo aleatorio dí: dime un hechizo.");
+		this.tell(spell.title + ": " + spell.description);
 	},
 
 	GoodBye() {
-		this.tell(
-			"Adiós joven mago, y recuerda: Son nuestras elecciones las que muestran lo que somos, mucho más que nuestras habilidades."
-		);
+		this.tell("Hasta pronto.");
 	},
 
 	Unhandled() {
-		let speech =
-			"para consultar un hechizo dí por ejemplo: que hace expecto patronum, para escuchar un hechizo aleatorio dí: dime un hechizo.";
-		this.ask("Vaya, no se cual es ese hechizo, " + speech, speech);
+		this.tell("No se cual es ese hechizo, lo buscaré y lo añadiré a la enciclopedia.");
 	}
 });
 

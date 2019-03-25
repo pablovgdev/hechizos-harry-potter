@@ -7,7 +7,7 @@
 		},
 		{
 			"name": "TellSpell",
-			"phrases": ["qué hace {spell}", "qué hace el hechizo {spell}", "qué es {spell}", "enséñame {spell}", "{spell}"],
+			"phrases": ["qué hace {spell}", "enséñame {spell}", "dime que hace {spell}"],
 			"inputs": [
 				{
 					"name": "spell",
@@ -17,11 +17,11 @@
 		},
 		{
 			"name": "RandomSpell",
-			"phrases": ["dime un hechizo", "otro", "siguiente", "otro más", "otro hechizo", "siguiente hechizo", "hechizo"]
+			"phrases": ["dime un hechizo", "enséñame un hechizo", "dime un hechizo aleatorio", "hechizo", "hechizo aleatorio"]
 		},
 		{
 			"name": "GoodBye",
-			"phrases": ["adios", "para", "calla", "callate", "hasta luego", "chao"]
+			"phrases": ["adios", "para", "calla", "callate", "hasta luego", "chao", "cancela", "cancelar", "sal", "salir"]
 		}
 	],
 	"alexa": {
@@ -30,7 +30,7 @@
 				"intents": [
 					{
 						"name": "AMAZON.CancelIntent",
-						"samples": ["calcelar", "para"]
+						"samples": ["calcelar", "cancela"]
 					},
 					{
 						"name": "AMAZON.HelpIntent",
@@ -38,7 +38,7 @@
 					},
 					{
 						"name": "AMAZON.StopIntent",
-						"samples": ["para", "calla"]
+						"samples": ["parar", "para", "calla"]
 					}
 				]
 			}
